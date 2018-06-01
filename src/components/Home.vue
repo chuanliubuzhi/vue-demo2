@@ -6,9 +6,9 @@
         <h2>这里有你非常喜欢的pizza</h2>
         <button @click="goToMenu" class="btn btn-success">Let's order!</button>
       </div>
-    </div>      
+    </div>
   </div>
-</template> 
+</template>
 <script>
 export default {
   methods:{
@@ -23,7 +23,7 @@ export default {
 </script>
 <style>
   #home{
-    background: url('../assets/pizza.jpg') no-repeat;
+    background: url('https://ss3.baidu.com/-rVXeDTa2gU2pMbgoY3K/it/u=2241366234,2257223376&fm=202&src=781&mola=new&crop=v1') no-repeat;
     background-size: 100%;
     height: 85vh;
     padding: 10%;

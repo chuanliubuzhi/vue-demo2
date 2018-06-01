@@ -3,7 +3,7 @@
     <div class="col-lg-12 col-md-12">
       <div class="card">
         <div class="card-body">
-          <img src="../assets/logo.png" alt="" class="mx-auto d-block">
+          <img src="https://ss3.baidu.com/-rVXeDTa2gU2pMbgoY3K/it/u=564090645,72281468&fm=202&mola=new&crop=v1" alt="" class="mx-auto d-block">
           <form @submit.prevent="onSubmit">
             <div class="form-group">
               <label for="email">email</label>
@@ -23,7 +23,7 @@
       </div>
     </div>
   </div>
-</template> 
+</template>
 
 <script>
 import axios from 'axios'
